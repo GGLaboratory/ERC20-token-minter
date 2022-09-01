@@ -1,0 +1,9 @@
+{
+  "short_name": "ERC20 Token Minter",
+  "name": "ERC20 Token Minter",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
+
